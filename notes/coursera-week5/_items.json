@@ -1,0 +1,13 @@
+[
+  {"slug":"01-introduction-to-week-5","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/YacP0/introduction-to-week-5"},
+  {"slug":"02-chord-inversions","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/GsztE/chord-inversions"},
+  {"slug":"03-chord-inversions-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/OQKkh/chord-inversions"},
+  {"slug":"04-cadences","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/TYAMr/cadences"},
+  {"slug":"05-cadences-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/lYIcY/cadences"},
+  {"slug":"06-chord-names","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/B8IyD/chord-names"},
+  {"slug":"07-chord-names-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/p4ZiX/chord-names"},
+  {"slug":"08-common-chord-progressions","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/qDmCz/common-chord-progressions"},
+  {"slug":"09-common-chord-progressions-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/ksm2X/common-chord-progressions"},
+  {"slug":"10-modulation","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/JTZJX/modulation"},
+  {"slug":"11-modulation-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/e6raa/modulation"}
+]

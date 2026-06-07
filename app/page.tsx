@@ -10,7 +10,7 @@ export default function Home() {
         </p>
       </header>
 
-      <div className="grid gap-6 sm:grid-cols-2 w-full max-w-lg">
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 w-full max-w-3xl">
         <Link
           href="/tuner"
           className="group flex flex-col items-center gap-3 rounded-xl border border-gray-700 p-8 hover:border-green-500 hover:bg-green-500/5 transition-colors"
@@ -36,10 +36,23 @@ export default function Home() {
             在指板上点亮当前弹的音
           </span>
         </Link>
+
+        <Link
+          href="/lessons/minor-scales"
+          className="group flex flex-col items-center gap-3 rounded-xl border border-gray-700 p-8 hover:border-orange-500 hover:bg-orange-500/5 transition-colors"
+        >
+          <span className="text-4xl">📖</span>
+          <span className="text-lg font-semibold group-hover:text-orange-400 transition-colors">
+            小调与关系大小调
+          </span>
+          <span className="text-sm text-gray-500 text-center">
+            交互课程：指板 + 钢琴 + 和弦图
+          </span>
+        </Link>
       </div>
 
       <footer className="mt-auto pt-6 text-xs text-gray-600">
-        基于 pitchy（McLeod 音高法）· tonal · fretboard.js
+        基于 pitchy · tonal · fretboard.js · smplr · svguitar · react-piano
       </footer>
     </main>
   );

@@ -1,0 +1,36 @@
+# Dots and Ties
+
+Source: https://www.coursera.org/learn/edinburgh-music-theory/supplement/Xb35N/dots-and-ties
+Type: Reading
+
+---
+
+Dots and TiesFor more information on this topic, you can find many alternative explanations through a quick search on the internet.
+
+Here is a link to YouTube, for example, for a very clear video explanation complete with notation examples, by Piano Keyboard Guide: Dotted Notes and Ties (Music Theory)Opens in a new tab.  If you want to practise handwriting different rhythmic durations you could make up some short rhythm patterns using dots to extend the duration of a note or two.  Write them out on a stave, then see if you can re-spell the same rhythm pattern by lengthening the note durations using ties instead of dots.  Please feel free to share your work in the Discussion Forum with other learners, for mutual encouragement!  Slurs vs TiesAs we mention in the following video, you can only ‘tie’ together two notes of exactly the same pitch.
+
+The horizontal, curved line which symbolises of a tie has a different notational purpose when it is used in a slightly different context.This example - giving no indication of pitch - shows a crotchet tied to a quaver, across a bar-line.
+
+We would hear only three sounds: But that same symbol written across two notes of different pitches does not indicate a tie:Rather, it indicates that the two (different) notes should be played in a way that makes them sound smoothly joined to one another.
+
+This is called a ‘slur’.
+
+A slur is not a direction about duration, but about articulation.
+
+Grace notes and ornamentationAnother aspect of notation related to rhythm (which we don't cover in the video) is that of grace notes and ornamentation.
+
+We’re discussing now some of the detail that you will find in many published musical scores.Grace notes and other so-called ‘ornaments’ refer to melodic detail that is somehow considered to be melodically and harmonically nonessential.
+
+They are usually printed smaller – a sort of music-notational superscript - to indicate this.A single grace note normally indicates either an appoggiatura or an acciaccatura.
+
+What’s the difference? These are two different types of melodic flourish, and the difference relates to rhythm and metre.AppoggiaturaAn appoggiatura describes an ‘extra’ note that is played on the same metrical position (the same count) as the ‘real’ note, before the real note is heard.
+
+The effect is to suspend the real note – to make the audience wait for it!AcciaccaturaIf you squeezed in the same ‘extra’ note, but you played it before the real note was due according to its metrical position in the bar, then you would be playing an acciaccatura.
+
+These are also sometimes called crushed notes.
+
+Because they are crammed in just in time - squeezed in before the ‘real’ note.
+
+So, although not strictly linked to this topic, you may wish to read more on 'ornaments', which you can think of as musical flourishes or decoration of the essential melodic character of the music.
+
+In stave musical notation, they are indicated in ways that help performers to 'place' these flourishes according to the timing and duration of the existing notes of the composition , for example: Ornament (music)Opens in a new tab.

@@ -1,0 +1,16 @@
+[
+  {"slug":"01-introduction-to-week-3","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/Hl8Tm/introduction-to-week-3"},
+  {"slug":"02-introduction-to-musical-time","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/86B9p/introduction-to-musical-time"},
+  {"slug":"03-musical-time-how-we-feel-it","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/oiLdb/musical-time-how-we-feel-it"},
+  {"slug":"04-musical-time-some-concepts","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/tu6QJ/musical-time-some-concepts"},
+  {"slug":"05-notating-rhythm-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/xZJSh/notating-rhythm"},
+  {"slug":"06-notating-rhythm","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/ciIbE/notating-rhythm"},
+  {"slug":"07-counting-with-subdivisions","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/rAgtp/counting-with-subdivisions"},
+  {"slug":"08-counting-with-subdivisions-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/MLOmt/counting-with-subdivisions"},
+  {"slug":"09-dots-and-ties","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/IZrRP/dots-and-ties"},
+  {"slug":"10-dots-and-ties-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/Xb35N/dots-and-ties"},
+  {"slug":"11-metre-and-time-signatures","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/9BCZ1/metre-and-time-signatures"},
+  {"slug":"12-metre-and-time-signatures-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/FBHqL/metre-and-time-signatures"},
+  {"slug":"13-phrase-and-form","type":"lecture","url":"https://www.coursera.org/learn/edinburgh-music-theory/lecture/FViqz/phrase-and-form"},
+  {"slug":"14-phrase-and-form-reading","type":"supplement","url":"https://www.coursera.org/learn/edinburgh-music-theory/supplement/x2PYW/phrase-and-form"}
+]

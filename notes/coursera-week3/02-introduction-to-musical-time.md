@@ -1,0 +1,14 @@
+# Introduction to Musical Time
+
+Source: https://www.coursera.org/learn/edinburgh-music-theory/supplement/86B9p/introduction-to-musical-time
+Type: Reading
+
+---
+
+Introduction to Musical TimeIn the following two videos, we're going to explore how musical time feels, and define five important concepts:Beat/pulse.Tempo.Metre.Bar.Grouping.These concepts can help you understand why musical stave notation looks the way it does, with so many different symbols and shapes; and how to retrieve other graphic and symbolic information in a musical score.
+
+We start off with an example featuring Chic / Bernard Edwards’ ‘Good Times’Opens in a new tab bassline.
+
+We'll also have a look at Queen’s ‘Another One Bites The Dust’ - a song which is known to have been influenced by Chic’s hit.
+
+We use the lyrics of the Queen song to help explain the process of transcribing a rhythm using stave notation.Completed

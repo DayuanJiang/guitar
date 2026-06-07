@@ -1,0 +1,60 @@
+# Metre and Time Signatures
+
+Source: https://www.coursera.org/learn/edinburgh-music-theory/supplement/FBHqL/metre-and-time-signatures
+Type: Reading
+
+---
+
+Metre and Time SignaturesWe’ll now look at the difference between the concepts of ‘metre’ (or metrical cycle) and a ‘time signature’.These are different things.
+
+Metre describes the organisation and feel of a music time cycle.
+
+But a time signature is just a code.
+
+When you’re reading musical notation, the time signature gives you important information about the composition’s metrical cycle.
+
+The time signature indicates both how to ‘count’ the durations, and how to ‘feel’ the beat (you have to understand these two things separately, to really understand how time signatures work).As we’ve said before, you may just need a few different explanations of the same concepts before they really ‘hit home’ to you.  We really recommend that you visit (and revisit!) the website musictheory.netOpens in a new tab.
+
+The resources there are excellent in explaining musical time, metre, and time signatures.
+
+Bear in mind that the site uses American terminology, whereas we are teaching this course using UK music theory language.
+
+It is good to be familiar with both.
+
+The following translations should help!Staff = StaveMeasure = BarQuarter notes = CrotchetsEighth notes = QuaversHalf notes = MinimsWhole notes = SemibrevesSimple and Compound MetreIt’s possible to read music from a stave just by following the melodic information in the notes and the duration symbols – and make it sound (sort of) correct.
+
+You can do this without ever really getting to grips with the information that’s packed into the time signature.
+
+Many score-reading musicians can learn to play well before they get to grips with this aspect of musical notation!In a time signature, there are two numbers sitting one above the other, like this:Top number - tells you how many ‘counts’ there are per bar.
+
+That is, what number you should count up to before you start again.Bottom number - indicates the value of the count - the unit that you’re counting in (this is the ‘code’ that Nikki refers to in the video).Let's practise together: Let’s say you have 4 counts per bar.
+
+Tap your finger now, at a rate of one count per second.
+
+A nice rate to feel the beat. 60 bpm.
+
+Presuming that you want your tune to stay at the same sort of tempo/speed all the way through, but that you want to somehow increase the density of sounds going on, what can you do?You can double up the rate of taps.
+
+Do that now, add in an extra little tap half way in between the original taps.
+
+We are subdividing!In the video, we ask you to play around with this by speeding up or slowing down your tapping.
+
+Try it now!Now, depending on how fast or slow your tune goes - and on the way you want the pattern to ‘feel’ - you might find that you want to subdivide into three instead of two.
+
+Notice how the ‘feel’ changes when we break a beat into three.And this, my friends, is the basic difference between a ‘simple’ and a ‘compound’ metre! In music theory terms: Simple describes music with a metrical organisation based on a beat that breaks down (simply) into halves.Compound describes music with a metrical organisation based on subdivision into three.
+
+To recap: the top number tells you how many units you should count up to in each bar.
+
+And the bottom number tells you what type of unit you’re counting with.So, if your lower number indicates a unit that is not a full crotchet (i.e. 8, or 16); and your top number is a multiple of three (i.e. 3, 6, 9 or 12, and so on), these are signals that the music is in compound time.
+
+The bottom unit should be treated as a ‘compound’.
+
+In this example it's 8 - so that means a quaver.
+
+So the time signature indicates that there are 6 quavers per bar.
+
+But, those 6 quavers are grouped (compounded) together in groups of three.  So, the feel of the music has 2 (not 6) beats per bar.  For more information, see Simple and Compound MeterOpens in a new tab.Common TimeNot mentioned in the videos this week, but useful to know: 'Common Time' is another name for music that features four beats per bar.
+
+Alongside a great deal of Western classical music repertoire, most electronic dance music is in four-four time.
+
+In fact, it is so common that sometimes people write the following time signature instead of 4/4:If you see this time signature written in a score, you now know that 'C' stands for 'common time' and this is exactly the same as 4/4 (simple quadruple time).
